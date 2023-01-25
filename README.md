@@ -1,17 +1,13 @@
-# Personal Portfolio Website in React
+#  Website NextGen in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
-
 Built using:
 
-- Front-end library: React
+- Front-end React
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
-
-In the /personal-portfolio, you can run:
-
+cd nextGen
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -27,10 +23,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Construye la aplicación para producción en la carpeta `build`.
+Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+La compilación se minimiza y los nombres de archivo incluyen los hashes. ¡Tu aplicación está lista para ser implementada!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
